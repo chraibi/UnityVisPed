@@ -79,7 +79,7 @@ public class Pedestrian : MonoBehaviour {
         lr.endColor = myColor;        
         lr.startWidth = 0.08f;
         lr.endWidth = 0.08f;
-        lr.numPositions = points.Count;
+        lr.positionCount = points.Count;
         lr.SetPositions(points.ToArray());
 
         pc.trajectoriesShown = true;

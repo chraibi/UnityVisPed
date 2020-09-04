@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
 
@@ -168,7 +169,7 @@ public class InfoText : MonoBehaviour {
 				}
 			}
 		}
-		GetComponent<GUIText>().text = text;
+		GetComponent<Text>().text = text;
 
 		if (diagram) {
 
