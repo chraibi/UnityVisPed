@@ -15,6 +15,11 @@ The software is licensed under the [MIT License](LICENSE.txt):
 
 *source: [choosealicense.com](http://www.choosealicense.com/)*
 
+--
+
+*Note:* This repository was forked from [accu-rate/SumoVizUnity](https://github.com/accu-rate/SumoVizUnity).
+
+
 ## New in this Version (JPS)
 
 1. Import geometry file in `JuPedSim` format
