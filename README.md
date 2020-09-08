@@ -38,8 +38,8 @@ The software is licensed under the [MIT License](LICENSE.txt):
 
 ### Required attribution
 
-> additions by Fabian Plum (2017)
-> Copyright (c) 2014 Daniel Büchele
+> Updated to Unity 2020.1 by Jan Vogelsang (2020)
+> Copyright (c) 2017 Fabian Plum, 2014 Daniel Büchele
 
 
 ### Restrictions
